@@ -1,0 +1,36 @@
+
+* Welcome to the AOPP seed market place. If you have seeds to offer, press 1. If you are looking to buy seeds, press 2. If you want information about seeds, press 3.
+
+* What type of seeds are you looking for. 
+* What type of seeds do you have to offer.
+
+* For red rice seeds, press 1.
+* For fonio seeds, press 2.
+* For nere seeds, press 3.
+
+* Select the quality of your seeds.
+* For semance de base, press 1
+* For R1, press 2
+* For R2, press 3
+
+
+
+* Press 9 to go back to the start menu
+
+* What is your Cercle
+* For Mopti, press 1
+* For Tominian, press 2
+* ...
+
+
+* You are offering
+* red rice seeds in the Tominian cercle 
+* fonio seeds of in the Tominian region 
+* nere seeds in the Bamako region
+
+* Please enter your name and phone number so potential clients can contact you
+
+* We found two offerings in your region
+ * Zakari Koulibali is offering fonio seeds in Bamako, 240 street, 62939922
+ * Pierre Keita is offering fonio seeds in Tominian, Rue de Blabla street, 92939555
+ 
